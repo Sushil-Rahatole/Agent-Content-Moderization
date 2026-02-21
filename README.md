@@ -10,6 +10,9 @@
 
 ---
 
+## Agent System Architecture
+![architecture](SystemArchitecture.png)
+
 ## 🧠 Agent Workflow
 
 ```
